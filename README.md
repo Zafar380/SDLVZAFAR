@@ -5,11 +5,7 @@ Web developer
 
 I started doing web programming a year ago and now I am a junior web developer. My main job is that I create a front end for web applications and for websites
 
-*   🌍  I'm based in Tashkent, Uzbekistan
-*   ✉️  You can contact me at [szof2008@gmail.com](mailto:szof2008@gmail.com)
-*   🧠  I'm learning Backend and Python
-*   🤝  I'm open to collaborating on Everything)
-*   ⚡  I am secretly baby yoda, don't tell anyone
+*   
 *   Skills and Tools
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
